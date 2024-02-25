@@ -1,8 +1,33 @@
-# React + Vite
+# Responsive Portfolio using React & tailwind css
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This web app is a responsive portfolio built using Vite, React.js, and Tailwind CSS. It utilizes these technologies to provide developers with high flexibility in creating fully responsive applications that adapt well to various devices such as phones, tablets, laptops, and desktops. The portfolio consists of five essential components:
 
-Currently, two official plugins are available:
+Header/Navbar
+- Home
+- Projects
+- About Me
+- Contact Me
+- Additionally, it features a Dark Mode component that toggles the website theme for enhanced user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Installation
+
+To run this project locally, follow these steps:
+
+Clone the repository to your local machine.
+Navigate to the project directory.
+Install dependencies using npm: npm install
+
+# Usage
+
+After installation, you can start the development server by running: npm run dev
+This command will start the development server, and you can view the app in your browser at http://localhost:5173
+
+# Technologies Used
+
+- Vite
+- React.js
+- Tailwind CSS
+
+# Credits
+
+Special thanks to the creators of Vite, React.js, and Tailwind CSS for their amazing tools and documentation.
